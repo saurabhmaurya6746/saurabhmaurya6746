@@ -3,7 +3,7 @@ Full Stack Developer | Data Analyst | ML Enthusiast
 
 I’m a B.Tech (CSE) student and GATE 2025 Qualified engineer with hands-on experience in building AI-powered applications and scalable backend systems.
 
-🏆 Winner – ISTE X ANDROMEDA Hackathon (NIT Hamirpur)
+🏆 Winner – ISTE X ANDROMEDA Hackathon (NIT Hamirpur) <br>
 🎓 GATE 2025 Qualified
 🌟 Ex-Intern – Data Science & ML at Softpro India
 🛠️ Tech Stack: Python (Django), Machine Learning, SQL, JavaScript
