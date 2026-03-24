@@ -13,10 +13,6 @@ I enjoy working on real-world problems, combining data, AI, and development to b
 
 💡 Interested in opportunities in Full Stack Development, Data Science, and AI-based products.
 
-📫 Connect with me:
-LinkedIn | Portfolio
-
-
 
 ## 🌐 Connect with me:
 
