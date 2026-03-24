@@ -1,5 +1,20 @@
-# 💫 About Me:
-# Hi there, I'm **Saurabh Maurya** 👋<br><br>**Full Stack Developer | Data Analyst | ML Enthusiast**<br><br>I am a passionate **B.Tech (CSE)** student and a **GATE 2025 Qualified** engineer with a strong foundation in **Data Science, Machine Learning, and Backend Development**.  <br><br>I enjoy building **real-world AI-powered applications**, scalable web systems, and solving complex problems using efficient algorithms.<br><br>- 🏆 **Winner**: ISTE X ANDROMEDA Hackathon (NIT Hamirpur)  <br>- 🎓 **GATE 2025 Qualified**  <br>- 🌟 **Ex-Intern**: Data Science & ML at Softpro India  <br>- 🛠️ **Tech Stack**: Python (Django), Machine Learning, SQL, JavaScript  <br>- 📈 **Problem Solver**: 300+ DSA problems solved  <br><br>💡 *Interested in building AI-driven products and full-stack applications that create real impact.*<br><br>---<br><br>📫 **Connect with me:**  <br>[LinkedIn] https://www.linkedin.com/in/saurabh-maurya-2805m/ | [Portfolio] https://saurabhmaurya6746.github.io/Portfolio/
+Hi, I’m Saurabh Maurya 👋
+Full Stack Developer | Data Analyst | ML Enthusiast
+
+I’m a B.Tech (CSE) student and GATE 2025 Qualified engineer with hands-on experience in building AI-powered applications and scalable backend systems.
+
+🏆 Winner – ISTE X ANDROMEDA Hackathon (NIT Hamirpur)
+🎓 GATE 2025 Qualified
+🌟 Ex-Intern – Data Science & ML at Softpro India
+🛠️ Tech Stack: Python (Django), Machine Learning, SQL, JavaScript
+📈 Solved 300+ DSA problems
+
+I enjoy working on real-world problems, combining data, AI, and development to build impactful solutions.
+
+💡 Interested in opportunities in Full Stack Development, Data Science, and AI-based products.
+
+📫 Connect with me:
+LinkedIn | Portfolio
 
 
 ## 🌐 Socials:
