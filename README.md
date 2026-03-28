@@ -25,6 +25,14 @@ I enjoy working on real-world problems, combining data, AI, and development to b
 ![](https://nirzak-streak-stats.vercel.app/?user=saurabhmaurya6746&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmaurya6746&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=saurabhmaurya6746&show_icons=true&theme=radical&count_private=true)
+
+![Streak](https://streak-stats.demolab.com?user=saurabhmaurya6746&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmaurya6746&layout=compact&theme=radical)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saurabhmaurya6746&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
